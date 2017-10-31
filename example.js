@@ -25,5 +25,8 @@ api.login('<email>', '<password>')
                 console.log('Error occurred', error);
             });
 
+   })
+   .catch((error) => {
+       console.log('Failed logging in', error);
    });
 
