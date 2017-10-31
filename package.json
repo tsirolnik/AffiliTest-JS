@@ -1,0 +1,12 @@
+{
+  "name": "AffiliTest-JS",
+  "version": "1.0.0",
+  "description": "AffiliTest's API implemented in JS for Node",
+  "main": "lib/api.js",
+  "repository": "https://github.com/tsirolnik/AffiliTest-JS.git",
+  "author": "Yehonatan Tsirolnik",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.83.0"
+  }
+}
