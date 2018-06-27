@@ -1,5 +1,5 @@
 {
-  "name": "AffiliTest-JS",
+  "name": "affilitest",
   "version": "1.0.0",
   "description": "AffiliTest's API implemented in JS for Node",
   "main": "lib/api.js",
