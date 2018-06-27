@@ -2,7 +2,7 @@
   "name": "affilitest",
   "version": "1.0.0",
   "description": "AffiliTest's API implemented in JS for Node",
-  "main": "lib/api.js",
+  "main": "lib/index.js",
   "repository": "https://github.com/tsirolnik/AffiliTest-JS.git",
   "author": "Yehonatan Tsirolnik",
   "license": "MIT",
